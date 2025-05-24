@@ -40,7 +40,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://api.memes.az-tenders.com",
+  "proxy": "https://memes-back.onrender.com",
   "devDependencies": {
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.3",
